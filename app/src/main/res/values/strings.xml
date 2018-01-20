@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EShowTestApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaurants_title">Restaurants</string>
+    <string name="chefs_title">Chefs</string>
+    <string name="restaurant_title">Restaurant</string>
+</resources>
